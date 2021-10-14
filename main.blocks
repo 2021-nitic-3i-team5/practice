@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="y#@@T_Q5g)2|oIMD?T1o" x="47" y="81"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_set_servo_pin" id="SU`N_Pz=wj0)5B8#Zyk`"><field name="name">AnalogPin.P1</field><value name="value"><shadow type="math_number_minmax" id="4M)m}2]R:B9U2Sz:8o?w"><mutation min="0" max="180" label="Value" precision="0"/><field name="SLIDER">0</field></shadow></value><next><block type="device_set_servo_pin" id="i{HL$/FG9[Vy~lJBJD?I"><field name="name">AnalogPin.P2</field><value name="value"><shadow type="math_number_minmax" id="dh|-`EY{CxmXmgeBL}A_"><mutation min="0" max="180" label="Value" precision="0"/><field name="SLIDER">90</field></shadow></value></block></next></block></statement></block></xml>
